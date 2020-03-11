@@ -1,0 +1,157 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Character Page</title>
+<link href="Character Page.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+	
+	<div class="name" id="top">
+		<h1>Lin Chasso</h1>
+	</div>
+	
+	<div class="photo">
+		<img src="Placeholder Image.jpg" />
+	</div>
+	
+	<a href="#Physical">
+		<div class="button1">
+			<h3>Physical</h3>
+		</div>
+	</a>
+	
+	<a href="#Personality">
+		<div class="button2">
+			<h3>Personality</h3>
+		</div>
+	</a>
+	
+	<a href="#Details">
+		<div class="button1">
+			<h3>Details</h3>
+		</div>
+	</a>
+	
+	<a href="#Universes">
+		<div class="button2">
+			<h3>Universes</h3>
+		</div>
+	</a>
+	
+	
+	<div class="info">
+		<h4 class="Physical" id="Physical">Physical</h4>
+		
+		<p>
+			<b>Race:</b> 3/4 Star Elf, 1/4 Sun Elf<br>
+			<b>Gender:</b> Cisgender Male<br>
+			<b>Age:</b> 109<br>
+			<b>Height:</b> 6'6"<br>
+			<b>Build:</b> Underweight<br>
+			<b>Birthday:</b> 25th December<br>
+			<b>Eye Colour:</b> Red<br>
+			<b>Skin Colour:</b> Pale Caucasian<br>
+			<b>Hair Colour:</b> Red<br>
+			<b>Hair Style:</b> Waist length. Often tied back in elaborate braids.<br>
+			<b>Hair Texture:</b> Naturally wavy but often straightened<br>
+			<b>Markings:</b> Freckles over his entire body. Black tattoos stretch over most of his skin - everywhere that can be hidden under a suit.<br>
+			<b>Default Expression:</b> Tired, exasperated.<br>
+			<b>Needs:</b> Glasses/contacts
+		</p>
+		
+			<a href="#top" class="scroll">Back to top</a>
+		
+		<h4 class="Personality" id="Personality">Personality</h4>
+		
+		<p>
+			<b>Sexuality:</b> Gay<br>
+			<b>In one word:</b> Tired<br>
+			<b>Temperment:</b> Usually looking down on people, very business like<br>
+			<b>Greatest Motivation:</b> To gain magical power<br>
+			<b>Greatest Fear:</b> People finding out his secrets, failure<br>
+			<b>Greatest Asset:</b> Intelligence<br>
+			<b>Greatest Flaw:</b> Hubris<br>
+			<b>More Details:</b>
+		
+		</p>
+			<a href="#top" class="scroll">Back to top</a>
+		
+		<h4 class="Details" id="Details">Details</h4>
+		
+			<p>
+				<b>Hobbies:</b> Reading, Painting, Cooking<br>
+				<b>Relationship Status:</b> Taken<br>
+				<b>Favourite food:</b> Apple Pie<br>
+				<b>Favourite colour:</b> Pale Blue and Yellow<br>
+				<b>Family:</b> Middle of three children, older sibling and younger brother. Mother and father in an unhappy marriage.<br>
+				<b>Friends:</b> Most of the Drach family<br>
+				<b>Religion:</b> No religious affiliation<br>
+				<b>Vices:</b> Caffeine addiction<br>
+				<b>Preferred Weapon:</b> His own intelligence<br>
+				<b>Zodiac Sign:</b> Capricorn<br>
+				<b>Theme Colour:</b> Red<br>
+				<b>Hogwarts House:</b> Slytherin/Ravenclaw<br>
+				<b>Deadly Sin:</b> Pride
+		
+			</p>
+		
+			<a href="#top" class="scroll">Back to top</a>
+		
+		<h4 class="Universes" id="Universes">Universes</h4>
+		
+		<h5 class="Dungeons and Dragons">Dungeons and Dragons</h5>
+		
+			<p>
+				
+				<b>Class:</b> Wizard<br>
+				<b>Alignment:</b> Neutral Evil<br>
+				<b>Weapon:</b> Magic<br>
+				<b>Religion:</b> None<br>
+				
+				<table>
+					<tr>
+						<td>Strength</td>
+						<td>7</td>
+					</tr>
+					<tr>
+						<td>Dexterity</td>
+						<td>10</td>
+					</tr>
+					<tr>
+						<td>Constitution</td>
+						<td>9</td>
+					</tr>
+					<tr>
+						<td>Intelligence</td>
+						<td>20</td>
+					</tr>
+					<tr>
+						<td>Wisdom</td>
+						<td>20</td>
+					</tr>
+					<tr>
+						<td>Charisma</td>
+						<td>20</td>
+					</tr>					
+				</table>
+		
+			</p>
+	
+		<h5 class="Modern">Modern</h5>
+	
+			<p>
+				<b>Occupation:</b> Doctor <br>
+				
+			</p>
+		
+		<h5 class="Flying in the Face of Fate">Flying in the Face of Fate</h5>
+	
+			<a href="#top" class="scroll">Back to top</a>	
+	
+	</div>
+	
+</body>
+</html>
+
