@@ -1,0 +1,155 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Character Page</title>
+<link href="Character Page.css" rel="stylesheet" type="text/css">
+</head>
+
+<div class="name" id="top">
+		<h1>Süßigkeiten Lebensmüdigkeit</h1>
+	</div>
+	
+	<div class="photo">
+		<img src="Placeholder Image.jpg" />
+	</div>
+	
+	<a href="#Physical">
+		<div class="button1">
+			<h3>Physical</h3>
+		</div>
+	</a>
+	
+	<a href="#Personality">
+		<div class="button2">
+			<h3>Personality</h3>
+		</div>
+	</a>
+	
+	<a href="#Details">
+		<div class="button1">
+			<h3>Details</h3>
+		</div>
+	</a>
+	
+	<a href="#Universes">
+		<div class="button2">
+			<h3>Universes</h3>
+		</div>
+	</a>
+	
+	
+	<div class="info">
+		<h4 class="Physical" id="Physical">Physical</h4>
+		
+		<p>
+			<b>Race:</b> Avariel<br>
+			<b>Gender:</b> Transgender Male<br>
+			<b>Age:</b> 197<br>
+			<b>Height:</b> 5'0"<br>
+			<b>Build:</b> Very skinny and light, hollow bones<br>
+			<b>Birthday:</b> 14th June<br>
+			<b>Eye Colour:</b> White<br>
+			<b>Skin Colour:</b> White<br>
+			<b>Hair Colour:</b> White<br>
+			<b>Hair Style:</b> Short<br>
+			<b>Hair Texture:</b> Naturally very curly<br>
+			<b>Markings:</b> <br>
+			<b>Default Expression:</b> Neutral, quiet<br>
+			<b>Needs:</b> 
+		</p>
+		
+			<a href="#top" class="scroll">Back to top</a>
+		
+		<h4 class="Personality" id="Personality">Personality</h4>
+		
+		<p>
+			<b>Sexuality:</b> Pansexual<br>
+			<b>In one word:</b> Cheery<br>
+			<b>Temperment:</b> Quiet, shy, until you get to know him when he can be very cheeky<br>
+			<b>Greatest Motivation:</b> Keep out of the reach of the temple<br>
+			<b>Greatest Fear:</b> Being found by the temple he was born with<br>
+			<b>Greatest Asset:</b> Intelligence<br>
+			<b>Greatest Flaw:</b> Hubris<br>
+			<b>More Details:</b>
+		
+		</p>
+			<a href="#top" class="scroll">Back to top</a>
+		
+		<h4 class="Details" id="Details">Details</h4>
+		
+			<p>
+				<b>Hobbies:</b> Dancing, sketching, stories<br>
+				<b>Relationship Status:</b> Taken<br>
+				<b>Favourite food:</b> Sweets<br>
+				<b>Favourite colour:</b> Blue<br>
+				<b>Family:</b> No known family<br>
+				<b>Friends:</b> Benjen, Davos, Sahuna, Lin, Hiroki<br>
+				<b>Religion:</b> The Traveller, Athena<br>
+				<b>Vices:</b> Vaping<br>
+				<b>Preferred Weapon:</b> Daggers<br>
+				<b>Zodiac Sign:</b> Cancer<br>
+				<b>Theme Colour:</b> Black<br>
+				<b>Hogwarts House:</b> Hufflepuff/Ravenclaw<br>
+				<b>Deadly Sin:</b> Wrath 
+		
+			</p>
+		
+			<a href="#top" class="scroll">Back to top</a>
+		
+		<h4 class="Universes" id="Universes">Universes</h4>
+		
+		<h5 class="Dungeons and Dragons">Dungeons and Dragons</h5>
+		
+			<p>
+				
+				<b>Class:</b> Wizard<br>
+				<b>Alignment:</b> Neutral Evil<br>
+				<b>Weapon:</b> Magic<br>
+				<b>Religion:</b> None<br>
+				
+				<table>
+					<tr>
+						<td>Strength</td>
+						<td>8</td>
+					</tr>
+					<tr>
+						<td>Dexterity</td>
+						<td>20</td>
+					</tr>
+					<tr>
+						<td>Constitution</td>
+						<td>13</td>
+					</tr>
+					<tr>
+						<td>Intelligence</td>
+						<td>20</td>
+					</tr>
+					<tr>
+						<td>Wisdom</td>
+						<td>11</td>
+					</tr>
+					<tr>
+						<td>Charisma</td>
+						<td>19</td>
+					</tr>					
+				</table>
+		
+			</p>
+	
+		<h5 class="Modern">Modern</h5>
+	
+			<p>
+				<b>Occupation:</b> Streaming, gay pride bartender<br>
+				
+			</p>
+		
+		<h5 class="Flying in the Face of Fate">Flying in the Face of Fate</h5>
+	
+			<a href="#top" class="scroll">Back to top</a>	
+	
+	</div>
+	
+</body>
+</html>
+
